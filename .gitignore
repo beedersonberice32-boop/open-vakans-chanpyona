@@ -1,0 +1,39 @@
+# Gradle
+.gradle
+/build
+/captures
+.gradle/
+build/
+
+# Android Studio
+.idea/
+*.iml
+*.apk
+*.ap_
+
+# Local properties
+local.properties
+gradle.properties
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Generated files
+/bin
+/gen
+out/
+
+# Keystore
+*.keystore
+*.jks
+
+# Misc
+*.log
+.classpath
+.project
+.settings/
+*.class
+*.jar
+*.war
+*.ear
