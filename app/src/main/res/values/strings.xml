@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">OPEN VAKANS CHANPYONA</string>
+    <string name="tournament_name">OPEN VAKANS CHANPYONA</string>
+    <string name="edition">2ème Édition</string>
+    <string name="category">U16</string>
+    <string name="stadium">Bolobolo</string>
+    <string name="slogan">Discipline - Transparence - Développement des jeunes talents</string>
+    <string name="registration_fee">2500 Gourdes</string>
+</resources>
